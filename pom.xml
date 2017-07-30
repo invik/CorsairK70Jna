@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.invik</groupId>
-    <artifactId>corsairk70jni</artifactId>
+    <artifactId>corsairk70jna</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <name>Corsair K70 JNI</name>
