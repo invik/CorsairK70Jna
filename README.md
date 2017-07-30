@@ -1,3 +1,7 @@
+# Corsair CUE Java library
+
 Java Library to wrap the Corsair CUE C++ SDK with JNA (https://github.com/nativelibs4java/nativelibs4java)
 
-See https://github.com/invik/CorsaidCUEJNAWrapper for C++ wrapper needed for this library
+Needs https://github.com/invik/CorsaidCUEJNAWrapper C++ wrapper
+
+DLL Binary for 2013 CUE SDK included
