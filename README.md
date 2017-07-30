@@ -1,1 +1,1 @@
-Library attempt to wrap the Corsair K70 RGB keyboard C++ SDK with JNA (https://github.com/nativelibs4java/nativelibs4java)
+Java Library to wrap the Corsair CUE C++ SDK with JNA (https://github.com/nativelibs4java/nativelibs4java)
