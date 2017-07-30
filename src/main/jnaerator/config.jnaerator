@@ -1,0 +1,1 @@
+-library CorsairCUEJNAWrapper -Iinclude -beanStructs include/CorsairCUEJNAWrapper.h include/CorsairLedIdEnum.h
